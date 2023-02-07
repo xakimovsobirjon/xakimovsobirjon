@@ -2,7 +2,7 @@
 
 <a href="https://www.instagram.com/xakimov_0211/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" width="25px">
-</a> <br />
+</a>
 <a href="https://t.me/xakimov_0211/">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2Bb_99bX2nrF7p8uB73UZEmKJpnMOc2NaDJKWh2ljQ&s" width="25px">
 </a>
