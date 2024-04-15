@@ -9,7 +9,7 @@
 <a target="_blank" href="https://wa.link/gw04oc">
   <img src="https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3JtNTMzLXJpcHBlZC1hLTAwNC5wbmc.png" width="25px">
 </a>
-<a target="_blank" href="tel:+998934293572">
+<a href="tel: +998934293572">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVgfMMcisM9ZM2u9XSMYedb5Wu59O3ueC2b9lBJjzfWw&s" width="25px">
 </a>
 
