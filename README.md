@@ -6,3 +6,6 @@
 <a target="_blank" href="https://t.me/sobirjon_dev/">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2Bb_99bX2nrF7p8uB73UZEmKJpnMOc2NaDJKWh2ljQ&s" width="25px">
 </a>
+<a target="_blank" href="https://wa.link/gw04oc">
+  <img src="https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3JtNTMzLXJpcHBlZC1hLTAwNC5wbmc.png" width="25px">
+</a>
