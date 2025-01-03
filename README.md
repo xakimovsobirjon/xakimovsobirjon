@@ -1,12 +1,26 @@
-### Hi there I'm Sobirjon Xakimov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There👋.+I'm+John+😎;" />
+</h1>
 
-<a target="_blank" href="https://www.instagram.com/sobirjon.online/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" width="25px">
-</a>
-<a target="_blank" href="https://t.me/sobirjon_dev/">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2Bb_99bX2nrF7p8uB73UZEmKJpnMOc2NaDJKWh2ljQ&s" width="25px">
-</a>
-<a target="_blank" href="https://wa.link/gw04oc">
-  <img src="https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3JtNTMzLXJpcHBlZC1hLTAwNC5wbmc.png" width="25px">
-</a>
+## **Dedicated Software Developer** passionate about building robust and efficient systems that support growth and innovation. I specialize in solving technical challenges with clean, maintainable code, striving to create seamless experiences that drive success for teams and users alike.
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=js,html,php,ts,react,nextjs,laravel,tailwind,git,npm,pnpm" />
+    <img src="https://skillicons.dev/icons?i=github,electron,nodejs,mysql,firebase,nginx,postman" />
+    <img src="https://skillicons.dev/icons?i=vscode,phpstorm" />
+</div>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=xakimovsobirjon&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=xakimovsobirjon&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/xakimovsobirjon/xakimovsobirjon/output/github-contribution-grid-snake.svg" />
+</div>
