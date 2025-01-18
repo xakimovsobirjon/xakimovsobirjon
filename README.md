@@ -18,3 +18,9 @@
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=xakimovsobirjon&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=xakimovsobirjon&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/xakimovsobirjon/xakimovsobirjon/output/github-contribution-grid-snake.svg" />
+</div>
